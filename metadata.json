@@ -1,0 +1,6 @@
+{
+  "name": "Parque Central Tech & Vigilancia",
+  "description": "Sistema web integral CRUD de gestión de pedidos, clientes, empleados, facturas y videovigilancia para empresa de tecnología en Parque Central, Barranquilla (Universidad Autónoma del Caribe - Electiva ASP.NET).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
